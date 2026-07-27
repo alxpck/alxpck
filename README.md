@@ -1,20 +1,12 @@
 ## Alex Peck
+**I help business owners adapt to change.** <br>
+For twenty years I've built at the intersection of design, technology, and operations. A decade as Creative Director for Seth Godin. Scaled the altMBA to 7,000+ leaders across 109 countries.
 
-**I build AI tools for creators.** <br>
-Writers, speakers, course creators, podcasters: people whose businesses are built on voice and trust.
-
-> Previously: Creative Director for Seth Godin. Owner/operator of the altMBA. Two decades of building at the intersection of design, technology, and operations.
-
+The throughline is change. Today that's AI.
+> The best tools fit the person you already are. They don't ask you to become someone else.
 ### What I'm working on
-
-- Setting up AI virtual agents for creator businesses 
-    - inbox triage
-    - calendar management
-    - file organization
-- Writing at [alxpck.com](https://alxpck.com) about AI, leadership, and building with intention
-- Exploring the frontier to learn what works, what's hype, and what's coming next
-
-
+- AI fluency for owner/operators — the four skills behind confident AI use. Put AI to work without handing over the parts that make the work yours.
+- Live build sessions — clarity on a new tool, a second opinion, or hands-on building on something bigger. We work on it together.
+- Writing at [alxpck.com](https://alxpck.com) about AI, leadership, and building with intention.
 ### Work with me
-
-I do live 1-on-1 build sessions for creators. Together, we build AI tools that reduce the busywork so they can do more of the work that matters.
+If your week is heavier than it should be, [let's talk](https://alxpck.com/build/).
